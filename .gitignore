@@ -1,0 +1,5 @@
+.vscode/
+.env
+dfk_gpt_api.service
+dfk_gpt_discord.service
+templates/__pycache__/
